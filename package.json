@@ -1,0 +1,16 @@
+{
+  "name": "sgen",
+  "version": "0.0.1",
+  "description": "random string generator",
+  "main": "sgen.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ramitos/sgen"
+  },
+  "keywords": [
+    "string",
+    "random"
+  ],
+  "author": "Sérgio Ramos <mail@sergioramos.me>",
+  "license": "MIT"
+}
