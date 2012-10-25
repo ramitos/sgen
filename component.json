@@ -1,0 +1,8 @@
+{
+  "name": "sgen",
+  "repo": "ramitos/sgen",
+  "description": "random string generator",
+  "version": "0.0.2",
+  "main": "sgen.js",
+  "scripts": ["sgen.js"]
+}
