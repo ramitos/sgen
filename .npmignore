@@ -3,3 +3,6 @@ node_modules
 components
 build
 component.json
+js
+css
+index.html
