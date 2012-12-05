@@ -1,8 +1,0 @@
-node_modules
-.DS_Store
-components
-build
-component.json
-js
-css
-index.html
