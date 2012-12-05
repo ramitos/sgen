@@ -1,0 +1,23 @@
+body {
+  padding-top: 0px;
+}
+
+.masthead {
+  padding: 0px;
+}
+
+.bs-docs-social {
+  width: 100%;
+}
+
+fieldset {
+  text-align: left;
+}
+
+legend + .control-group {
+  margin-top: 0px;
+}
+
+.footer {
+  padding: 20px 0px;
+}

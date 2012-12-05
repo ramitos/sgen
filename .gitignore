@@ -1,6 +1,7 @@
 node_modules
 .DS_Store
-build
-js
-css
-index.html
+package.json
+component.json
+build/build.css
+src
+readme.md
