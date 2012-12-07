@@ -7,13 +7,13 @@ string generator
 #### [component/component](https://github.com/component/component)
 
 ```bash
-$ component install [--save/--save-dev] ramitos/sgen
+$ component install [--dev] ramitos/sgen
 ```
 
 #### npm
 
 ```bash
-$ npm install [--save/--save-dev] seen
+$ npm install [--save/--save-dev] sgen
 ```
 
 ## example
