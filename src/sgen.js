@@ -2,7 +2,6 @@ var map = require('./map');
 
 module.exports.timestamp = function (from) {
   if(!from) from = 1328054400000; //2012/1/1
-  
   var timestamp = (new Date().getTime() - from).toString().split('');
   var elements = [];
   var hash = '';
